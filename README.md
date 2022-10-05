@@ -376,6 +376,7 @@ Share your apps here! Submit a pull request!
 * [Brief introduction to Appwrite and it's features](https://dev.to/froostycodes/appwrite-must-try-obb)
 * [Hacktoberfest- What I learned by creating a Appwrite demo app](https://dev.to/jonathanvanhaaften/what-i-learned-by-creating-a-appwrite-flutter-demo-51ce)
 * [Contributing to Appwrite using Gitpod](https://bishwajeet-parhi.medium.com/how-i-used-gitpod-to-make-an-open-source-contribution-in-appwrite-9bc1f74ef155)
+* [8 reasons to fall in ❤️ with Appwrite](https://dev.to/meldiron/8-reasons-to-fall-in-with-appwrite-29ib)
 
 ## Playgrounds and Snippets
 
